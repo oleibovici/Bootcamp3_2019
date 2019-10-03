@@ -112,7 +112,6 @@ describe('Listings CRUD tests', function() {
   {'code' : 'GMC'}
   This should resolve the issue. Although the test has failed our create function still 
   sends the listing to the database.
-
   You can comment the two coordinate tests until you have completed the code the 
   coordinates.server.controlelr.js file 
 */
