@@ -54,7 +54,7 @@ module.exports.init = function() {
       If no path segments are passed, path.resolve() will return the absolute path of the current working directory.
    */
    //res.sendFile(path.resolve('/Users/orileibovici/Desktop/Dev/bootcamp-assignments/assignment_3/client/index.html'));
-   res.sendFile(path.resolve('../../client/index.html'));
+   res.sendFile(path.resolve('../Bootcamp3_2019/client/index.html'));  
   });
   
   
